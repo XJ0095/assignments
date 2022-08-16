@@ -1,0 +1,42 @@
+body {
+    background-color:bisque;
+    position: relative;
+    left: 280px;
+    right: 280px;
+}
+
+h1 {
+    color: green;
+    font-size: 25px;
+}
+.Start, .somewhere {
+    color:brown;
+}
+
+.IOT {
+    color:brown;
+    font-size: 20px;
+}
+
+a {
+    color: green;
+    font-size: 20px;
+}
+
+p {
+    color: brown;
+    font-size: 15px;
+}
+
+ul {
+    color:green;
+    display:inline-block;
+    border: 5px dotted brown;
+    padding: 20px;
+    margin-top:10px;
+}
+
+img {
+    width:200px;
+    border:1px solid green;
+}
