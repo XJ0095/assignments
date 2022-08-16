@@ -3,6 +3,7 @@
 
 
 
+
 //String - denoted/represented by " " ' ' - they are great for words,language
 var firstName = "Andrew"
 console.log(firstName)
